@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://online-casino-bez-registracii707.github.io/sitemap.xml

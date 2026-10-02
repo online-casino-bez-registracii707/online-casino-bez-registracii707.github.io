@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Пошаговник">
+  <rect width="64" height="64" rx="12" fill="#2f5d3a"/>
+  <path d="M15 44 L27 32 L35 40 L50 22" fill="none" stroke="#f2f8f0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="15" cy="44" r="3.6" fill="#f2f8f0"/>
+  <circle cx="27" cy="32" r="3.6" fill="#cdae6a"/>
+  <circle cx="50" cy="22" r="3.6" fill="#f2f8f0"/>
+</svg>
